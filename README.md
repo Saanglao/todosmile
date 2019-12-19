@@ -1,17 +1,15 @@
-# TO:DO
-## Do it with a smile
+![](https://github.com/Saanglao/todosmile/blob/master/assets/todo_flutter.png?raw=true)
 
-A new Flutter project.
+Flutter todo tutorial from series of **To:Do - do it with a smile** [blog](https://medium.com/@saanglao_dev/road-to-do-my-journey-7eeb3b76f71b?).
+
+### dependencies
+
+- [Flutter](https://flutter.dev/)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Make sure you have [Flutter](https://flutter.dev/docs/get-started/install) installed then run:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+$ flutter run
+```
