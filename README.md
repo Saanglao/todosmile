@@ -8,7 +8,19 @@ Flutter todo tutorial from series of **To:Do - do it with a smile** [blog](https
 
 ## Getting Started
 
-Make sure you have [Flutter](https://flutter.dev/docs/get-started/install) installed then run:
+### Make sure you have [Flutter](https://flutter.dev/docs/get-started/install) installed then run:
+
+Make sure of all requirements for running flutter and simulator
+
+```bash
+$ flutter doctor
+```
+Install dependencies
+
+```bash
+$ flutter pub get
+```
+Run the project
 
 ```bash
 $ flutter run
